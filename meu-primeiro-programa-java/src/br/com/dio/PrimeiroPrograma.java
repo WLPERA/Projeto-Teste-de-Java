@@ -11,7 +11,7 @@ public class PrimeiroPrograma {
 		int a = 1;
 		int b = 2;
 
-		System.out.println("Hello World " + (a + b));
+		System.out.println("Hello World:" + (a + b));
 		System.out.println(gato);
 		System.out.println(livros);
 	}
